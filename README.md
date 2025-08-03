@@ -1,4 +1,4 @@
-# hypr-dotfiles
+# hyprrepo
 Dotfiles for Hyprland
 
 ![Desktop](images/desktop.png)
